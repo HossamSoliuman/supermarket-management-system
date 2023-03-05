@@ -1,0 +1,54 @@
+.subcon{
+    /* border: 1px solid skyblue; */
+  
+    margin-top: 50px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+   
+
+}
+.form{
+    width: 40%;
+}
+.subm{
+    width: 90%;
+    margin-top: 0%;
+}
+
+.inp{
+    width: fit-content;
+    font-size: small;
+    
+}
+.invoice{
+    border: 1px solid rgb(53, 68, 75);
+    width: 50%;
+    height:max-content;
+}
+.add{
+    border: 2px solid slategray;
+    background-color: rgb(158, 155, 155);
+    max-width: 500px;
+    
+}
+.form-add{
+    padding: 15px;
+}
+/* .form-control{
+    margin: 4px;
+} */
+.edit{
+    max-width: 750px;
+    max-width: 90%;
+    margin: 50px;
+    border: solid 1px slategrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.search{
+    max-width: 500px;
+}
